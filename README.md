@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://martwebb.github.io/404-page/">
       Demo
     </a>
     <span> | </span>
